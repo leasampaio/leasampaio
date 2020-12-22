@@ -12,7 +12,7 @@
 
 ## GitHub Stats and Most Used Languages
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=easampaio&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasampaio&layout=compact)](https://github.com/leasampaio/github-readme-stats)
 
 
