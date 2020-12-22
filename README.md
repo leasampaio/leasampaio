@@ -1,7 +1,7 @@
 
 # A long time ago in a galaxy far far away... 
 
-![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
+
 
 ## Sobre mim
 
@@ -12,11 +12,8 @@
 
 ## GitHub Stats and Most Used Languages
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasampaio&layout=compact)](https://github.com/leasampaio/github-readme-stats)
-
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=leasampaio&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasampaio&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/leasampaio/github-readme-stats)
 
 ## Tech Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,4 +30,6 @@
 **Versioning and Communication**
 
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/leasampiao/)
+
+![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
 
