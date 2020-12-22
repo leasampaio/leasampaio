@@ -11,8 +11,9 @@
 :raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
 ## GitHub Stats and Most Used Languages
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio)](https://github.com/leasampaio/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio&hide=contribs,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=easampaio&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasampaio&layout=compact)](https://github.com/leasampaio/github-readme-stats)
 
 
 
