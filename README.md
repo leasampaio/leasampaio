@@ -1,5 +1,5 @@
 
-# A long time ago in a galaxy far far away... :leia:
+# A long time ago in a galaxy far far away... ![](https://emojis.slackmojis.com/emojis/images/1493910282/2178/leia.png?1493910282)
 
 ![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
 
