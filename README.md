@@ -5,7 +5,17 @@
 
 ## About me:
 
-:woman_technologist: <strong>Hi, my name is Lea Sampaio, and I am from Brazil. I'm a Backend developer.</strong>
+:woman_technologist: <strong>Hi, my name is Lea Sampaio</strong>
+
+ 💻 I'm a Backend developer from Brazil
+
+🎓 I study Computer Science @ UFBA
+
+⏹️ I'm currently working as Angular @ [UmbuDigital](https://umbusolidario.com/) and as Vice-Presiden @ [TITAN](https://titanci.com.br/)
+
+✒️ I like to spend my spare time reading.
+
+
 
 [![Linkedin: leasampaio](https://img.shields.io/badge/-leasampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leasampaio/)](https://www.linkedin.com/in/leasampaio/)
 
