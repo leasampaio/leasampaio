@@ -16,9 +16,18 @@
  📚 I like to spend my spare time reading.
 
 
+### Where to find me:
 
-[![Linkedin: leasampaio](https://img.shields.io/badge/-leasampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leasampaio/)](https://www.linkedin.com/in/leasampaio/)
+<a href="https://www.linkedin.com/in/leasampaio/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+<br/>
 
+
+<a href="mailto:lealisboas@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+<br/><br/>
 
 
 ## GitHub Stats and Most Used Languages
