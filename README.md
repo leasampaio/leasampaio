@@ -1,7 +1,7 @@
 
 # A long time ago in a galaxy far far away... :leia:
 
-![] (https://giphy.com/gifs/3owzVVCtGOpiC6TNdK/html5)
+![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
 
 ## Sobre mim
 
