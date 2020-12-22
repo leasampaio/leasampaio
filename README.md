@@ -1,5 +1,5 @@
 
-# A long time ago in a galaxy far far away... ![](https://emojis.slackmojis.com/emojis/images/1493910282/2178/leia.png?1493910282)
+# A long time ago in a galaxy far far away... 
 
 ![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
 
@@ -12,6 +12,7 @@
 
 ## GitHub Stats and Most Used Languages
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio)](https://github.com/leasampaio/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio&hide=contribs,prs)
 
 
 
