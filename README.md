@@ -9,7 +9,7 @@
 
  💻 I'm a Backend developer from Brazil
 
-🎓 I study Computer Science @ [UFBA] (https://www.ufba.br/)
+🎓 I study Computer Science @ [UFBA](https://www.ufba.br/)
 
 ⏹️ I'm currently working as Angular @ [UmbuDigital](https://umbusolidario.com/) and as Vice-Presiden @ [TITAN](https://titanci.com.br/)
 
