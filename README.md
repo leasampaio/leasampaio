@@ -5,7 +5,7 @@
 
 ## About me:
 
-:woman_technologist: <strong>Hi, my name is Lea Sampaio</strong>
+:woman_technologist:Hi, my name is  <strong>Lea Sampaio</strong>
 
  💻 I'm a Backend developer from Brazil
 
