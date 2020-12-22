@@ -8,8 +8,13 @@
 :woman_technologist: <strong>My name is Lea Sampaio, and I am from Brazil. I'm a Backend developer</strong>
 
 
-
 :raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
+
+## GitHub Stats and Most Used Languages
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leasampaio)](https://github.com/leasampaio/github-readme-stats)
+
+
+
 
 ## Tech Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
