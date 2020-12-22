@@ -5,7 +5,7 @@
 
 ## About me:
 
-:woman_technologist: <strong>My name is Lea Sampaio, and I am from Brazil. I'm a Backend developer</strong>
+:woman_technologist: <strong>Hi, my name is Lea Sampaio, and I am from Brazil. I'm a Backend developer.</strong>
 
 [![Linkedin: leasampaio](https://img.shields.io/badge/-leasampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leasampaio/)](https://www.linkedin.com/in/leasampaio/)
 
@@ -28,7 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ildaneta/)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ildaneta/)
 
-**Versioning and Communication**
+**Communication**
 
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/leasampiao/)
 
