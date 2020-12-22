@@ -3,12 +3,13 @@
 
 
 
-## Sobre mim
+## About me:
 
 :woman_technologist: <strong>My name is Lea Sampaio, and I am from Brazil. I'm a Backend developer</strong>
 
+[![Linkedin: leasampaio](https://img.shields.io/badge/-leasampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leasampaio/)](https://www.linkedin.com/in/leasampaio/)
 
-:raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
+
 
 ## GitHub Stats and Most Used Languages
 
