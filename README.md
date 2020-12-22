@@ -13,7 +13,7 @@
 
 ⏹️ I'm currently working as Angular @ [UmbuDigital](https://umbusolidario.com/) and as Vice-Presiden @ [TITAN](https://titanci.com.br/)
 
-✒️ I like to spend my spare time reading.
+ 📚 I like to spend my spare time reading.
 
 
 
