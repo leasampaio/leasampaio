@@ -51,7 +51,7 @@
 
 **Communication**
 
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/leasampiao/)
+[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/leasampaio/)
 
 ![](https://media.giphy.com/media/3owzVVCtGOpiC6TNdK/giphy.gif)
 
