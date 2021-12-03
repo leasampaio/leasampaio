@@ -17,16 +17,8 @@
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/leasampaio/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-<br/>
+https://www.linkedin.com/in/leasampaio
 
-
-<a href="mailto:lealisboas@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
-<br/><br/>
 
 
 ## GitHub Stats and Most Used Languages
