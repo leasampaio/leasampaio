@@ -21,10 +21,6 @@ https://www.linkedin.com/in/leasampaio
 
 
 
-## GitHub Stats and Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leasampaio&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/leasampaio/github-readme-stats)
-
 
 ## Tech Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
